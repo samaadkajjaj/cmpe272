@@ -1,0 +1,120 @@
+{
+    "_id" : "955rtj5",
+    "title" : "The Painted Man",
+    "author" : [ "Peter V. Brett" ],
+    "published_date" : "2009-08-01",
+    "pages" : 544,
+    "language" : "English",
+    "publisher_id" : "Harper Collins Publishers",
+    "available" : 3
+}
+
+{
+    "_id" : "bb4e114f",
+    "title" : "Madame Bovary",
+    "author" : [ "James, Coles Peter" ],
+    "published_date" : "1199-08-01",
+    "pages" : 234,
+    "language" : "Spanish",
+    "publisher_id" : "Coles Publishers",
+    "available" : 7
+}
+
+{
+    "_id" : "cir54342",
+    "title" : "All quite in the western front",
+    "author" : [ "Eric Maria" ],
+    "published_date" : "1928-08-01",
+    "pages" : 674,
+    "language" : "English",
+    "publisher_id" : "litte brown publishers",
+    "available" : 5
+}
+
+{
+    "_id" : "cm3e34h",
+    "title" : "The Glass Caslte",
+    "author" : [ "Rose Mary" ],
+    "published_date" : "1956-08-01",
+    "pages" : 302,
+    "language" : "English",
+    "publisher_id" : "the princetown publishers",
+    "available" : 19
+}
+
+{
+    "_id" : "cnv4e993",
+    "title" : "War and Peace",
+    "author" : [ "Omar Jackson" ],
+    "published_date" : "1959-08-01",
+    "pages" : 364,
+    "language" : "English",
+    "publisher_id" : "Nashville copier publishers",
+    "available" : 6
+}
+
+{
+    "_id" : "bh5s235d",
+    "title" : "pride and prejudice",
+    "author" : [ "saint lauren" ],
+    "published_date" : "1452-06-02",
+    "pages" : 544,
+    "language" : "English",
+    "publisher_id" : "Atlanta Recoders Publishers",
+    "available" : 14
+}
+
+{
+    "_id" : "bm2n964d",
+    "title" : "Great expectations",
+    "author" : [ "Christina Cewrwick" ],
+    "published_date" : "1939-04-01",
+    "pages" : 400,
+    "language" : "English",
+    "publisher_id" : "Harper Collins Publishers",
+    "available" : 3
+}
+
+{
+    "_id" : "by4tn402g",
+    "title" : "The Cool brothers",
+    "author" : [ "Jermemy Krossly" ],
+    "published_date" : "1986-10-06",
+    "pages" : 530,
+    "language" : "English",
+    "publisher_id" : "Brotherville Publishers",
+    "available" : 18
+}
+
+{
+    "_id" : "mh4oyt302r",
+    "title" : "In Search for Lost Time",
+    "author" : [ "Samuel Eto" ],
+    "published_date" : "1944-01-10",
+    "pages" : 203,
+    "language" : "English",
+    "publisher_id" : "Warner Brothers",
+    "available" : 9
+}
+
+{
+    "_id" : "vt0ld943i",
+    "title" : "The Great Gatspy",
+    "author" : [ "Lionardo DeCaprio" ],
+    "published_date" : "1968-08-13",
+    "pages" : 609,
+    "language" : "English",
+    "publisher_id" : "Desiney Publishers",
+    "available" : 5
+}
+
+{
+    "_id" : "or3rf853d",
+    "title" : "Emma",
+    "author" : [ "Nay Smallings" ],
+    "published_date" : "1932-01-11",
+    "pages" : 432,
+    "language" : "English",
+    "publisher_id" : "Smallings Publishers",
+    "available" : 3
+}
